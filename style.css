@@ -271,7 +271,7 @@ p{margin:0 0 12px}
 .ilosc{display:flex;align-items:center;background:#fff;border-radius:999px;border:1px solid var(--line)}
 .ilosc button{width:42px;height:46px;border:0;background:none;font-size:20px;color:var(--ink);cursor:pointer}
 .ilosc input{width:36px;text-align:center;border:0;font:inherit;font-weight:800;color:var(--ink);background:none}
-.kup .btn{flex:1;justify-content:center}
+.kup .btn{flex:1;justify-content:center;white-space:nowrap;padding:14px 16px}
 .kup .info{font-size:14px;color:var(--mut);display:grid;gap:4px}
 .kup .info span{display:flex;gap:8px;align-items:center}
 .kup .info svg{width:18px;height:18px;color:var(--lime-d);flex:none}
